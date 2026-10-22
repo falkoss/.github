@@ -15,7 +15,10 @@ developed in public, everything included, no telemetry. A non-profit (gUG, in fo
 
 | Project | What | Status |
 |---|---|---|
+| [falkOSS labs](https://github.com/falkoss-labs) | smaller projects: plugins, tools, forks and experiments | new |
 | [omaflake](https://github.com/omaflake) | clean, disposable NixOS and macOS VMs on Apple silicon | in development |
+| [Kernoid](https://github.com/kernoid) | one core for email, identity and storage – self-hostable, in Rust | in design ([whitepaper](https://github.com/kernoid/whitepaper)) |
+| [Notenwart](https://github.com/notenwart) | self-hosted sheet music library for music schools, orchestras and ensembles | in development |
 
 Each project keeps its own organisation, name and design; falkOSS is the home behind them.
 
