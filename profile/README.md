@@ -9,7 +9,7 @@
 <sub>Falcon Lake Open Source Software</sub></p>
 
 **falkOSS** builds and maintains open-source software for people who build things: open code under open licences,
-developed in public, no telemetry. A non-profit (gUG, in formation) from Falkensee, the town next to Berlin.
+developed in public, everything included, no telemetry. A non-profit (gUG, in formation) from Falkensee, the town next to Berlin.
 
 ### Projects
 
@@ -22,6 +22,8 @@ Each project keeps its own organisation, name and design; falkOSS is the home be
 ### Principles
 
 - **Free licences** – everything we publish is open source under an OSI-approved licence.
+- **Everything included** – the free version is the whole product: one edition, every feature, for everyone. We
+  charge for work – hosting, support, development, teaching – never for unlocking.
 - **No telemetry** – our software does not phone home.
 - **In the open** – issues, plans, reviews and decisions happen in public.
 - **Non-profit** – money goes into the software, never into profits.
