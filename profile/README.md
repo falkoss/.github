@@ -42,7 +42,7 @@ FALK + OSS    → falkOSS
 Falcon Lake Open Source Software = FLOSS
 ```
 
-*Falke* is German for falcon, *See* for lake.
+Falkensee is our town: *Falke* is German for falcon, *See* for lake. FLOSS is free/libre and open source software.
 
 ### Contribute
 
