@@ -21,6 +21,7 @@ developed in public, everything included, no telemetry. A non-profit (gUG, in fo
 | [notenwart](https://github.com/notenwart) | self-hosted sheet music library for music schools, orchestras and ensembles | 0.1, pilot ([notenwart.app](https://notenwart.app)) |
 | [librotenado](https://github.com/librotenado) | open protocol for accounting data in Europe – spezado is the first implementation | draft 0.7 ([librotenado.org](https://librotenado.org)) |
 | [spezado](https://github.com/spezado) | free accounting for everyone – local first, end-to-end encrypted sync, in Rust | preview 0.3 ([spezado.app](https://spezado.app)) |
+| [verkodo](https://github.com/verkodo) | mathematics and law written formally, checked by machine – Lean 4 checks the proofs | early 0.4 ([verkodo.org](https://verkodo.org)) |
 | [falkOSS labs](https://github.com/falkoss-labs) | smaller projects: plugins, tools, forks and experiments | new |
 
 Each project keeps its own organisation, name and design; falkOSS is the home behind them.
